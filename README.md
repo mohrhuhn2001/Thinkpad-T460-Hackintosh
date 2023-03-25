@@ -1,12 +1,10 @@
 # Thinkpad T460 Hackintosh
 
 This set up is based on OpenCore 0.8.0 to work with Macos Monterey
+<img width="698" alt="About This Mac" src="https://user-images.githubusercontent.com/9517130/227723304-ed341ce5-8e48-481a-8b7a-7037023b54c1.png">
 
 im just Uploading this EFI for Reference so Please dont expect any updates
 
-you should in theory be able to copy this efi to your Opencore 0.8.0 bootmedium and boot right into Macos Monterey to test it out for yourself
-
-you should fill in your own Platforminfo
 
 # Laptop's Hardware:
 - <b>Model</b>: Thinkpad T460 (20FN003LGE)
@@ -51,7 +49,7 @@ you should fill in your own Platforminfo
 # additional Notes:
 
 Battery Hotswapping works fine: just close the Lid to perform the Swap and it should update the Battery percentage accordingly
-(Service Recommended can be ignored)
+("Service Recommended" Warning can be ignored)
 
 If my Laptop falls or gets hit by something near the Dockingstation port it may hardlock and needs to restart i didnt observe that behavior under Windows
 

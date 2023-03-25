@@ -20,8 +20,6 @@ im just Uploading this EFI for Reference so Please dont expect any updates
 - <b>Battery</b>: 3-cell (23Wh) + 3-cell (23Wh)
 - <b>Bios</b>: 1.43
 
----
-
 # Working:
 - Intel HD 520 Graphics with 2048MB allocated
 - CPU Power Management
@@ -46,7 +44,7 @@ im just Uploading this EFI for Reference so Please dont expect any updates
 - Fingerprint Reader
 - Sidecar Wireless
 
-# additional Notes:
+# Notes:
 
 Battery Hotswapping works fine: just close the Lid to perform the Swap and it should update the Battery percentage accordingly
 ("Service Recommended" Warning can be ignored)
